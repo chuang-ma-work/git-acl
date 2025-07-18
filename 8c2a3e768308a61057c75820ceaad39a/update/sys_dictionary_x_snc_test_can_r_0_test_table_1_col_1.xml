@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>col 1</column_label>
+        <column_label>col 11</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -52,13 +52,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-07-18 07:55:05</sys_created_on>
-        <sys_name>col 1</sys_name>
+        <sys_name>col 11</sys_name>
         <sys_package display_value="test can read" source="x_snc_test_can_r_0">8c2a3e768308a61057c75820ceaad39a</sys_package>
         <sys_policy/>
         <sys_scope display_value="test can read">8c2a3e768308a61057c75820ceaad39a</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_test_can_r_0_test_table_1_col_1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-18 07:55:05</sys_updated_on>
+        <sys_updated_on>2025-07-18 08:14:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
